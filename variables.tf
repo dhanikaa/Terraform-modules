@@ -4,5 +4,4 @@ variable "ami_value" {
 
 variable "instance_type_value" {
   description = "type of the EC2 instance"
-  type = string
 }
